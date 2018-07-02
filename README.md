@@ -13,7 +13,7 @@
 ## Resources
 
 - [Private Blogs](https://anishi1222.com/)
-  Not frequently updated...
+    Not frequently updated...
 - [Translation](https://orablogs-jp.blogspot.com/)
-  Focusing on translation of Oracle Blogs.
+    Focusing on translation of Oracle Blogs.
 - [Twitter](https://twitter.com/OraBlogs_jp)
