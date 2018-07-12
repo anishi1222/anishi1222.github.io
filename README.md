@@ -1,7 +1,10 @@
 Samples and tutorials for Oracle API Platform Cloud Service and Oracle Integration Cloud.
 
-**API Platform Cloud Service**
-- Samples
+**API Platform Cloud Service (APIPCS)**
+- Gateway
+  - [Gateway configuration for APIPCS](https://anishi1222.github.io/APIPCS)
+
+- Groovy Samples
   - [Groovy Script Samples for API Platform Cloud Service](https://anishi1222.github.io/api-groovy)
 
 **Oracle Integration Cloud**
